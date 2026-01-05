@@ -1,0 +1,258 @@
+{
+  "picBed": {
+    "current": "githubPlus",
+    "uploader": "githubPlus",
+    "smms": {
+      "token": "",
+      "_configName": "Default",
+      "_id": "975bc436-71b9-4ca2-b1bc-24eb8284027d",
+      "_createdAt": 1766462455172,
+      "_updatedAt": 1766462455172
+    },
+    "tcyun": {
+      "_configName": "Default",
+      "_id": "cfb2018c-59ca-441c-9669-449a226175ab",
+      "_createdAt": 1766462451454,
+      "_updatedAt": 1766462451454
+    },
+    "aliyun": {
+      "_configName": "Default",
+      "_id": "f768e1bb-3d23-4335-8e09-4509de5f28e9",
+      "_createdAt": 1766462453647,
+      "_updatedAt": 1766462453647
+    },
+    "github": {
+      "_configName": "github",
+      "_id": "cd27a446-dbb0-45c2-ba97-a9c28f43c70e",
+      "_createdAt": 1766462456406,
+      "_updatedAt": 1767598460663,
+      "repo": "yan-xi-yan/Typora_image",
+      "branch": "main",
+      "token": "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",
+      "path": "img/",
+      "customUrl": "https://cdn.jsdelivr.net/gh/yan-xi-yan/Typora_image"
+    },
+    "qiniu": {
+      "_configName": "Default",
+      "_id": "1ab78539-d651-4ef3-b401-7440930ab063",
+      "_createdAt": 1767594215728,
+      "_updatedAt": 1767594215728
+    },
+    "imgur": {
+      "_configName": "Default",
+      "_id": "e0cace16-04e5-499b-82d6-1abd4dda9106",
+      "_createdAt": 1767594216080,
+      "_updatedAt": 1767594216080
+    },
+    "upyun": {
+      "_configName": "Default",
+      "_id": "412814be-b723-4433-8518-03a4034c6e4f",
+      "_createdAt": 1767594217239,
+      "_updatedAt": 1767594217239
+    },
+    "gitee": {
+      "_configName": "Default",
+      "_id": "db192c65-a55d-4567-88bd-68c6013aab29",
+      "_createdAt": 1767595156005,
+      "_updatedAt": 1767595156005
+    },
+    "githubPlus": {
+      "_configName": "Image",
+      "_id": "2385acbf-2f4d-42ed-a7e7-2db1d031a6ca",
+      "_createdAt": 1767595156540,
+      "_updatedAt": 1767598452090,
+      "repo": "yan-xi-yan/Typora_image",
+      "branch": "main",
+      "token": "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",
+      "path": "img/",
+      "customUrl": "https://cdn.jsdelivr.net/gh/yan-xi-yan/Typora_image",
+      "origin": "github"
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      },
+      "picgo-plugin-quick-capture:quick-capture": {
+        "enable": true,
+        "name": "quick-capture",
+        "label": "快速截图并上传",
+        "key": "CmdOrCtrl+Shift+0"
+      }
+    },
+    "showUpdateTip": false,
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": true
+    },
+    "autoStart": true,
+    "rename": false,
+    "pasteStyle": "markdown",
+    "privacyEnsure": true
+  },
+  "needReload": false,
+  "uploader": {
+    "tcyun": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "cfb2018c-59ca-441c-9669-449a226175ab",
+          "_createdAt": 1766462451454,
+          "_updatedAt": 1766462451454
+        }
+      ],
+      "defaultId": "cfb2018c-59ca-441c-9669-449a226175ab"
+    },
+    "aliyun": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "f768e1bb-3d23-4335-8e09-4509de5f28e9",
+          "_createdAt": 1766462453647,
+          "_updatedAt": 1766462453647
+        }
+      ],
+      "defaultId": "f768e1bb-3d23-4335-8e09-4509de5f28e9"
+    },
+    "smms": {
+      "configList": [
+        {
+          "token": "",
+          "_configName": "Default",
+          "_id": "975bc436-71b9-4ca2-b1bc-24eb8284027d",
+          "_createdAt": 1766462455172,
+          "_updatedAt": 1766462455172
+        }
+      ],
+      "defaultId": "975bc436-71b9-4ca2-b1bc-24eb8284027d"
+    },
+    "github": {
+      "configList": [
+        {
+          "_configName": "github",
+          "_id": "cd27a446-dbb0-45c2-ba97-a9c28f43c70e",
+          "_createdAt": 1766462456406,
+          "_updatedAt": 1767598460663,
+          "repo": "yan-xi-yan/Typora_image",
+          "branch": "main",
+          "token": "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",
+          "path": "img/",
+          "customUrl": "https://cdn.jsdelivr.net/gh/yan-xi-yan/Typora_image"
+        }
+      ],
+      "defaultId": "cd27a446-dbb0-45c2-ba97-a9c28f43c70e"
+    },
+    "qiniu": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "1ab78539-d651-4ef3-b401-7440930ab063",
+          "_createdAt": 1767594215728,
+          "_updatedAt": 1767594215728
+        }
+      ],
+      "defaultId": "1ab78539-d651-4ef3-b401-7440930ab063"
+    },
+    "imgur": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "e0cace16-04e5-499b-82d6-1abd4dda9106",
+          "_createdAt": 1767594216080,
+          "_updatedAt": 1767594216080
+        }
+      ],
+      "defaultId": "e0cace16-04e5-499b-82d6-1abd4dda9106"
+    },
+    "upyun": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "412814be-b723-4433-8518-03a4034c6e4f",
+          "_createdAt": 1767594217239,
+          "_updatedAt": 1767594217239
+        }
+      ],
+      "defaultId": "412814be-b723-4433-8518-03a4034c6e4f"
+    },
+    "gitee": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "db192c65-a55d-4567-88bd-68c6013aab29",
+          "_createdAt": 1767595156005,
+          "_updatedAt": 1767595156005
+        }
+      ],
+      "defaultId": "db192c65-a55d-4567-88bd-68c6013aab29"
+    },
+    "githubPlus": {
+      "configList": [
+        {
+          "_configName": "Image",
+          "_id": "2385acbf-2f4d-42ed-a7e7-2db1d031a6ca",
+          "_createdAt": 1767595156540,
+          "_updatedAt": 1767598452090,
+          "repo": "yan-xi-yan/Typora_image",
+          "branch": "main",
+          "token": "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",
+          "path": "img/",
+          "customUrl": "https://cdn.jsdelivr.net/gh/yan-xi-yan/Typora_image",
+          "origin": "github"
+        }
+      ],
+      "defaultId": "2385acbf-2f4d-42ed-a7e7-2db1d031a6ca"
+    }
+  },
+  "picgoPlugins": {
+    "picgo-plugin-github-plus": true,
+    "picgo-plugin-gitee": false,
+    "picgo-plugin-quick-capture": true,
+    "picgo-plugin-watermark": false
+  },
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "picgo-plugin-watermark": {
+    "fontFamily": "",
+    "text": "yanxi",
+    "textColor": "",
+    "fontSize": "",
+    "image": "",
+    "position": "",
+    "minSize": ""
+  },
+  "picgo-plugin-github-plus": {
+    "lastSync": "2026-01-05 04:53:36"
+  },
+  "uploaded": [
+    {
+      "fileName": "20260105153026482.png",
+      "width": 1092,
+      "height": 602,
+      "extname": ".png",
+      "imgUrl": "https://cdn.jsdelivr.net/gh/yan-xi-yan/tomato-images/img/20260105153026482.png",
+      "sha": "a6f3ff96490598919d66802a2eccfa8b118021ba",
+      "type": "githubPlus",
+      "id": "239d7185-1df0-46c1-a9f1-b116e259f709",
+      "createdAt": 1767598228374,
+      "updatedAt": 1767598228374
+    },
+    {
+      "fileName": "GitHub_API_Token.png",
+      "width": 1246,
+      "height": 1322,
+      "extname": ".png",
+      "imgUrl": "https://cdn.jsdelivr.net/gh/yan-xi-yan/tomato-images/img/GitHub_API_Token.png",
+      "sha": "9619d229fbf2392a3a3266aacd4df4fe801946a0",
+      "type": "githubPlus",
+      "id": "89f7f8cc-7c0d-4da8-95cf-d6a34d2b30e7",
+      "createdAt": 1767598322229,
+      "updatedAt": 1767598322229
+    }
+  ]
+}
